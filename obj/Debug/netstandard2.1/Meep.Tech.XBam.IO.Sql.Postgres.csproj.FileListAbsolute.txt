@@ -1,5 +1,0 @@
-C:\Users\super\Projects\meep-tech\libraries\c-sharp\XBam\XBam.IO.Sql.Postgres\obj\Debug\netstandard2.1\Meep.Tech.XBam.IO.Sql.Postgres.csproj.AssemblyReference.cache
-C:\Users\super\Projects\meep-tech\libraries\c-sharp\XBam\XBam.IO.Sql.Postgres\obj\Debug\netstandard2.1\Meep.Tech.XBam.IO.Sql.Postgres.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\super\Projects\meep-tech\libraries\c-sharp\XBam\XBam.IO.Sql.Postgres\obj\Debug\netstandard2.1\Meep.Tech.XBam.IO.Sql.Postgres.AssemblyInfoInputs.cache
-C:\Users\super\Projects\meep-tech\libraries\c-sharp\XBam\XBam.IO.Sql.Postgres\obj\Debug\netstandard2.1\Meep.Tech.XBam.IO.Sql.Postgres.AssemblyInfo.cs
-C:\Users\super\Projects\meep-tech\libraries\c-sharp\XBam\XBam.IO.Sql.Postgres\obj\Debug\netstandard2.1\Meep.Tech.XBam.IO.Sql.Postgres.csproj.CoreCompileInputs.cache
