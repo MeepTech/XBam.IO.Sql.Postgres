@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Meep.Tech.XBam.IO.Sql.Postgres
+build_property.ProjectDir = C:\Users\super\Projects\meep-tech\libraries\c-sharp\XBam\XBam.IO.Sql.Postgres\
